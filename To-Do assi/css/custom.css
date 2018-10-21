@@ -1,0 +1,27 @@
+.bg-color{
+    background-color:#ccc ; 
+}
+.fixed{
+    position: sticky;
+    top:0;
+    z-index: 3;
+}
+.top-bar{
+    margin: 0 !important;
+}
+.side-bar {
+    padding: 10px  20px !important;
+}
+.submit-button{
+    position: relative;
+    width: 92%;
+    left: 3%;
+}
+.postion-del{
+    margin-top: -40px;
+    padding: 10px;
+}
+.postion-up{
+    margin-top: -40px;
+    padding: 10px;
+}
